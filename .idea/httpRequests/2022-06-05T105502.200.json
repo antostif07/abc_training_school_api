@@ -1,0 +1,1 @@
+{"@context":"\/contexts\/User","@id":"\/users","@type":"hydra:Collection","hydra:member":[{"@id":"\/users\/1","@type":"User","id":1,"username":"+243892194444"},{"@id":"\/users\/2","@type":"User","id":2,"username":"string"}],"hydra:totalItems":2}

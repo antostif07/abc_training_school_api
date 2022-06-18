@@ -1,0 +1,2 @@
+# domain	path	name	value	date
+localhost	/	sf_redirect	%7B%22token%22%3A%228358b0%22%2C%22route%22%3A%22api_entrypoint%22%2C%22method%22%3A%22POST%22%2C%22controller%22%3A%22api_platform.action.entrypoint%22%2C%22status_code%22%3A201%2C%22status_text%22%3A%22Created%22%7D	-1

@@ -1,0 +1,456 @@
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-09T073853.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-09T073407.500.html
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-09T121949.500.html
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T102443.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T102424.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T102224.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T102157.500.html
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T102041.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101925.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101500.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101432.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101358.200.json
+
+###
+
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101102.200.json
+
+###
+
+POST http://localhost:8000
+Content-Type: application/json
+
+{
+  "username": "+243892194444",
+  "password": "string"
+}
+
+<> 2022-06-06T101017.201.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100707.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100455.400.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100417.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100226.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100024.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T100007.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T095533.400.json
+
+###
+
+POST http://localhost:8000/login?username=+243892194444&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T095026.400.json
+
+###
+
+POST http://localhost:8000/login?username=+243892194444&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T094805.400.json
+
+###
+
+POST http://localhost:8000/login?username=+243892194444&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T094718.500.html
+
+###
+
+POST http://localhost:8000/login?username= 243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T094309.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T051448.404.html
+
+###
+
+GET http://localhost:8000/users?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T051414.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T050539.404.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T050117.404.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T012128.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T124443.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T124135.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T124108.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T124038.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T124021.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123944.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123636.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123555.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123510.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123322.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123305.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T123108.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T122938.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-06T122529.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T115113.500.html
+
+###
+
+POST http://localhost:8000/login?username=+243&password=C_forever9
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T110706.200.json
+
+###
+
+POST http://localhost:8000/login?username=+243814435063&password=string
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T105706.200.json
+
+###
+
+POST http://localhost:8000/login
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T105552.200.json
+
+###
+
+GET http://localhost:8000/login
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T105520.405.html
+
+###
+
+GET http://localhost:8000/users
+Accept: */*
+Cache-Control: no-cache
+
+<> 2022-06-05T105502.200.json
+
+###
+

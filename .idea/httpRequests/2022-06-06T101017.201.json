@@ -1,0 +1,1 @@
+{"@context":"\/contexts\/Entrypoint","@id":"\/","@type":"Entrypoint","establishment":"\/establishments","establishmentAddress":"\/establishment_addresses","order":"\/orders","product":"\/products","user":"\/users"}

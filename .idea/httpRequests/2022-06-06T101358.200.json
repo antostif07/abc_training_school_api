@@ -1,0 +1,8 @@
+Symfony\Component\HttpFoundation\InputBag Object
+(
+    [parameters:protected] => Array
+        (
+        )
+
+)
+{"message":"Ok","id":null,"username":true}

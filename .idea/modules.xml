@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cimko.iml" filepath="$PROJECT_DIR$/.idea/cimko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pwa/.idea/pwa.iml" filepath="$PROJECT_DIR$/../pwa/.idea/pwa.iml" />
+    </modules>
+  </component>
+</project>
